@@ -40,7 +40,7 @@
 
 ---
 Код:
-> [https://github.com/ZininPasha/lab1](https://github.com/ZininPasha/lab1)
+> [laba1.cpp](laba1.cpp)
 
 ## Таблицы результатов и графики
 
