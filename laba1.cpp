@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include <vector>
 #include <algorithm>
 #include <chrono>
@@ -347,7 +347,7 @@ int main() {
 
     cout << "\n================================================" << endl;
     cout << "Измерения завершены." << endl;
-    cout << "Для построения графиковиспользуйте полученные таблицы." << endl;
+    cout << "Для построения графиков используйте полученные таблицы." << endl;
 
     return 0;
 }
